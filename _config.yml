@@ -1,0 +1,28 @@
+name: ilovecoloring
+favicon: null
+layout_spectrum: 0.9022585961502045
+typography_spectrum: 0.9538202635012567
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.25176871311850846
+  lightness: 0.5806906325742602
+  saturation: 0.9907242115586996
+  rhythmicContrast: 0.63699771463871
+purpose: []
